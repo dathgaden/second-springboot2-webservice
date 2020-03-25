@@ -1,5 +1,8 @@
-# Project exclude paths
-/.gradle/
-/build/
-/build/classes/java/main/
-/build/classes/java/test/
+# Created by .ignore support plugin (hsz.mobi)
+.gradle
+.idea
+
+application-real-oauth.properties
+
+build
+out
