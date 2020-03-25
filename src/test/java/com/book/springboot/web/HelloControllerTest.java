@@ -1,7 +1,6 @@
 package com.book.springboot.web;
 
 import com.book.springboot.config.auth.SecurityConfig;
-import org.graalvm.compiler.lir.CompositeValue;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
